@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 sympy = "*"
 scipy = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"
