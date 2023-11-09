@@ -7,6 +7,7 @@ name = "pypi"
 sympy = "*"
 scipy = "*"
 jupyter = "*"
+islp = "*"
 
 [dev-packages]
 ipykernel = "*"
