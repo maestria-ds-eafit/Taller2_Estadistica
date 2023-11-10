@@ -8,6 +8,7 @@ sympy = "*"
 scipy = "*"
 jupyter = "*"
 islp = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
