@@ -9,6 +9,7 @@ scipy = "*"
 jupyter = "*"
 islp = "*"
 seaborn = "*"
+nvidia-pyindex = "*"
 
 [dev-packages]
 ipykernel = "*"
