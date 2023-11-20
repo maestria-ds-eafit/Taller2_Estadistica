@@ -9,7 +9,6 @@ scipy = "*"
 jupyter = "*"
 islp = "*"
 seaborn = "*"
-nvidia-pyindex = "*"
 statsmodels = "*"
 scikit-learn = "*"
 
