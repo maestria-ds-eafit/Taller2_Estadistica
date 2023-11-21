@@ -12,6 +12,9 @@ seaborn = "*"
 statsmodels = "*"
 scikit-learn = "*"
 matplotlib = "*"
+mlxtend = "*"
+install = "*"
+sklearn-pandas = "*"
 
 [dev-packages]
 ipykernel = "*"
