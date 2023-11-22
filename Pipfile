@@ -14,6 +14,9 @@ scikit-learn = "*"
 matplotlib = "*"
 geopandas = "*"
 folium = "*"
+nbmerge = "*"
+dbcv = {git = "git+https://github.com/FelSiq/DBCV"}
+vertopal = "*"
 
 [dev-packages]
 ipykernel = "*"
